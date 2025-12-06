@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <NavBar />
-      <ItemListContainer greeting="Bienvenido a ElectroShop — Todo en electricidad" />
+      <ItemListContainer greeting="Bienvenido a El Faraón — Todo en electricidad" />
     </>
   );
 }
